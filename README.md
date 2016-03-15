@@ -21,7 +21,7 @@ Here comes zim and kiwix handful to fullfill that job. presently kiwix can do
 
 3. And very main feature is we can set up server with kiwix!!! which is very important feature
 
-  >If we have zim file, and install kiwix-serve , then it acts like server, and any one can access content via wifi
+   If we have zim file, and install kiwix-serve , then it acts like server, and any one can access content via wifi
    in premices, with out having internet at them or at server. So it will be too useful in schools, collages,Institutions, universities
    Rural areas, where internet is inaccessable. And we can even serve content without much equipment too, 
    Just a raspberry pie even can act as kiwix-server 
@@ -78,25 +78,36 @@ Wikimedia projects of indian languages
 संस्कृतम
 
 1. Sanskrit wiki source  :  http://download.kiwix.org/zim/wikisource_sa_all.zim
+
 2. Sanskrit wikipedia    :  http://download.kiwix.org/zim/wikipedia_sa_all.zim
+
 3. Sanskrit wikipedia    :  http://download.kiwix.org/zim/wikipedia_sa_all_nopic.zim
+
 4. Sanskrit wiktionary   :  http://download.kiwix.org/zim/wiktionary_sa_all.zim
 
 हिंदी
 1. Hindi wikisource        : Note: It seems there is no special site, it is merged with english wikisource.
+
                              So we have to select and mirror, then zim. will be done in near future.
+
 2. Hindi wikipedia         : http://download.kiwix.org/zim/wikipedia_hi_all.zim
+
 3. Hindi wikipedia         : http://download.kiwix.org/zim/wikipedia_hi_all_nopic.zim
+
 4. Hindi wiktionary        : http://download.kiwix.org/zim/wiktionary_hi_all.zim
 
 తెలుగు
 1. Telugu wikisource    : http://download.kiwix.org/zim/wikisource_te_all.zim
+
 2. Telugu wikipedia     : http://download.kiwix.org/zim/wikipedia_te_all.zim
+
 3. Telugu wikipedia     : http://download.kiwix.org/zim/wikipedia_te_all_nopic.zim
+
 4: Telugu wiktionary    : http://download.kiwix.org/zim/wiktionary_te_all.zim
 
 ಕನ್ನಡ
 1. Kannada wikisource  : http://download.kiwix.org/zim/wikisource_kn_all.zim
+
 2. Kannada wikipedia   : http://download.kiwix.org/zim/wikipedia_kn_all_nopic.zim
-3. Kannada wikipedia   :
+
 4. Kannada wiktionary  : http://download.kiwix.org/zim/wiktionary_kn_all.zim
