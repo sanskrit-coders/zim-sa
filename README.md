@@ -26,6 +26,8 @@ Here comes zim and kiwix handful to fullfill that job. presently kiwix can do
    Rural areas, where internet is inaccessable. And we can even serve content without much equipment too, 
    Just a raspberry pie even can act as kiwix-server 
 
+4. To start kiwix server, jut launch kiwix, click on tools, and select server, then server menu appears, start from there.
+   for complete referance this url will be very helpfull http://www.kiwix.org/wiki/Kiwix-serve
 
 So taking all these in account if we concentrate on building zim files, it will be helpfull to so many people, institutions. all books, wikis, every content.
 And kiwix has all platform clients. so mobile devices also can access off line content.And pcs can both read and serve to premices too.
