@@ -77,6 +77,7 @@ Wikimedia projects of indian languages
 
 संस्कृतम
 
+
 1. Sanskrit wiki source  :  http://download.kiwix.org/zim/wikisource_sa_all.zim
 
 2. Sanskrit wikipedia    :  http://download.kiwix.org/zim/wikipedia_sa_all.zim
@@ -86,9 +87,10 @@ Wikimedia projects of indian languages
 4. Sanskrit wiktionary   :  http://download.kiwix.org/zim/wiktionary_sa_all.zim
 
 हिंदी
-1. Hindi wikisource        : Note: It seems there is no special site, it is merged with english wikisource.
 
-                             So we have to select and mirror, then zim. will be done in near future.
+1. Hindi wikisource        : Note: It seems there is no special site, it is merged with english wikisource.So we have to select and mirror, then zim. will be done in near future.
+
+                           
 
 2. Hindi wikipedia         : http://download.kiwix.org/zim/wikipedia_hi_all.zim
 
@@ -97,6 +99,7 @@ Wikimedia projects of indian languages
 4. Hindi wiktionary        : http://download.kiwix.org/zim/wiktionary_hi_all.zim
 
 తెలుగు
+
 1. Telugu wikisource    : http://download.kiwix.org/zim/wikisource_te_all.zim
 
 2. Telugu wikipedia     : http://download.kiwix.org/zim/wikipedia_te_all.zim
@@ -106,6 +109,7 @@ Wikimedia projects of indian languages
 4: Telugu wiktionary    : http://download.kiwix.org/zim/wiktionary_te_all.zim
 
 ಕನ್ನಡ
+
 1. Kannada wikisource  : http://download.kiwix.org/zim/wikisource_kn_all.zim
 
 2. Kannada wikipedia   : http://download.kiwix.org/zim/wikipedia_kn_all_nopic.zim
