@@ -1,0 +1,16 @@
+As kiwix-serve can be used as server, it will be helpful if there are dictionaries too.
+It is nothing but providing html formatting and interface to dictionary file.
+So we can browse on kiwix, or browser using kiwix-serve as server.
+
+dictionary is page structured. every page contains some 20 words. and links to next and previous
+pages were given. And most importantly, it is word searchable, if you search for aa word,
+then it takes you to the position of that word in page that contains it. So we can search or browse.
+
+To start kiwix-serve go to kiwix >> tools >> server. and start server there, and open in browser.
+And formatting is completely mobile friendly. so you can use it on android/ios easefully.
+
+please give suggestions to improve browsing experience, or html layout if you want to chaange.
+
+Thanks
+
+_/\_ jai shriram.
